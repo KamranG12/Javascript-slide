@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+.left{
+    float: left;
+    position: absolute;
+    margin-top: -300px;
+}
+
+.right{
+    position: absolute;
+    margin-top: -300px;
+    float: right;
+    margin-left: 98.3%;
+}
+
+
+.galery{
+    width: 100%;
+    position: relative;
+}
+
+img{
+    width: 100%;
+}
